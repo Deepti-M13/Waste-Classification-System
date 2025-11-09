@@ -67,7 +67,7 @@ history = model.fit(
 )
 model.save("waste_classifier_model.h5")
 print("\nModel saved as waste_classifier_model.h5")
-print("\n📸 Upload an image to test the model")
+print("\nUpload an image to test the model")
 
 uploaded = files.upload()
 class_labels = list(train_generator.class_indices.keys())
