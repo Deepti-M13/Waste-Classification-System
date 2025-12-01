@@ -1,4 +1,4 @@
-# Week-1
+
 ♻️Waste Classification for Recycling using CNN
 
 🧩Overview
